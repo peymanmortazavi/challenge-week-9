@@ -38,25 +38,25 @@ fill-in-your-answer
 
 ![image](/screenshots/checkpoint1.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint1.html)
 
 # 2. (3 points)
 
 ![image](/screenshots/checkpoint2.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint2.html)
 
 # 3. (3 points)
 
 ![image](/screenshots/checkpoint3.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint3.html)
 
 # 4. (3 points)
 
 ![image](/screenshots/checkpoint4.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](checkpoint4.html)
 
 ## Challenges (4 points x 3 = 12 points)
 
