@@ -1,10 +1,10 @@
 # Name
 
-write-your-name
+Peyman Mortazavi
 
 # How many points have you earned?
 
-0/100
+100/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
@@ -14,11 +14,11 @@ fill-in-your-answer
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Saturday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+It's hard to tell but I think D3 in general is more difficult for me because I already have some experience with MongoDB.
 
 # Show and tell (8 points)
 
@@ -37,26 +37,24 @@ fill-in-your-answer
 # 1. (3 points)
 
 ![image](/screenshots/checkpoint1.png?raw=true)
-![Alt text](/screenshots/checkpoint1.png?raw=true)
-![Alt text](screenshots/checkpoint1.png?raw=true)
 
 [checkpoint](checkpoint.html)
 
 # 2. (3 points)
 
-![image](image.png?raw=true)
+![image](/screenshots/checkpoint2.png?raw=true)
 
 [checkpoint](checkpoint.html)
 
 # 3. (3 points)
 
-![image](image.png?raw=true)
+![image](/screenshots/checkpoint3.png?raw=true)
 
 [checkpoint](checkpoint.html)
 
 # 4. (3 points)
 
-![image](image.png?raw=true)
+![image](/screenshots/checkpoint4.png?raw=true)
 
 [checkpoint](checkpoint.html)
 
