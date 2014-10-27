@@ -24,11 +24,11 @@ It's hard to tell but I think D3 in general is more difficult for me because I a
 
 ## Link (2 points)
 
-[title-of-the-article](http://link-to-an-article-about-machine-learning-use-for-big-data)
+[Machine Learning floats all boats on Big Data ocean](http://www.infoworld.com/article/2610071/big-data/machine-learning-floats-all-boats-on-big-data-s-ocean.html)
 
 ## Discuss how you may apply the machine learning technique mentioned in this article to another interesting problem (6 points).
 
-fill-in-your-answer
+Well, the article does not really get into details of how machine is actually helping big data. What is interesting is that, according to this article, most algorithms used in machine learning fit the needs for big data because they run even more efficient as the size of the data grows.
 
 # D3 IV
 
