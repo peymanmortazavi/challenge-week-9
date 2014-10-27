@@ -62,15 +62,15 @@ fill-in-your-answer
 
 # 1. (4 points)
 
-![image](image.png?raw=true)
+![image](/screenshots/challenge1.png?raw=true)
 
 # 2. (4 points)
 
-![image](image.png?raw=true)
+![image](/screenshots/challenge1.png?raw=true)
 
 # 3. (4 points)
 
-![image](image.png?raw=true)
+![image](/screenshots/challenge1.png?raw=true)
 
 [challenge3](challenge3.html)
 
