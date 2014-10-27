@@ -36,7 +36,9 @@ fill-in-your-answer
 
 # 1. (3 points)
 
-![image](image.png?raw=true)
+![image](/screenshots/checkpoint1.png?raw=true)
+![Alt text](/screenshots/checkpoint1.png?raw=true)
+![Alt text](screenshots/checkpoint1.png?raw=true)
 
 [checkpoint](checkpoint.html)
 
